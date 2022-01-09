@@ -81,7 +81,7 @@ Using this app is fairly easy. After downloading the loan_qualifier_app, we want
 Those who contributed to this application include Columbia Engineering Fintech Bootcamp for providing the starter code, .csv file and directional instructions for the app, and Lance Arena, a software engineer for Northwestern Mutual for providing clarifiation on creating a save-csv function.
 
 
-The main writer and contributer of this appliation is Gabriel Ferreri, and can be contacted at:
+The main writer and contributer of this application is Gabriel Ferreri, and can be contacted at:
 
 Gabriel M. Ferreri
 (516)-660-5266
