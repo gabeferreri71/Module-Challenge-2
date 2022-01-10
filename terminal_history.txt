@@ -1,0 +1,8 @@
+    1  cd columbia
+    2  cd challenges
+    3  cd Module-Challenge-2
+    4  cd loan_qualifier_app
+    5  conda activate loanqualifierapp
+    6  python.py
+    7  python app.py
+    8  history 50 > terminal_history.txt
